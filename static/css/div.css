@@ -1,0 +1,9 @@
+div.index-carousel-row{
+    width: 18rem; 
+    align-items: center;
+}
+
+div.card-size{
+    width: 80%;
+    height: 100%;
+}
