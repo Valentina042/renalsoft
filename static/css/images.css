@@ -3,3 +3,9 @@ img.image-size{
     height: 200px;
     align-items: center;
 }
+
+img.image-Size{
+    width: 480px;
+    height: 480;
+    align-items: center;
+}
