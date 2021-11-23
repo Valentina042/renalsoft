@@ -3,7 +3,7 @@ from flask import Flask, render_template
 app = Flask(__name__)
 
 
-@app.route('/vista_inicio')
+@app.route('/')
 def main_template():  
     return render_template("index.html")
 
